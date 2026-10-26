@@ -16,8 +16,13 @@ Mỗi buổi ghi: ngày · chủ đề · đã làm được gì · vướng m�
 - Chủ đề: khung, motor, cánh quạt, ESC
 - Ghi chú: [week1/buoi-03-cau-tao-drone.md](week1/buoi-03-cau-tao-drone.md)
 
+### Buổi 4 (26/10/2026) – Pin LiPo, flight controller, điều khiển vô tuyến
+- Chủ đề: thông số LiPo (S, mAh, C, Wh), thời gian bay, FC Pixhawk & power module, RC channel / Mode 2, failsafe
+- Ghi chú: [week1/buoi-04-pin-lipo-fc-radio.md](week1/buoi-04-pin-lipo-fc-radio.md)
+- Thực hành còn mở: bảng đọc nhãn pin, `LiPo_Calculator`, `docs/SOP-01_LiPo.md`, tập hover simulator
+
 ### Việc tiếp theo
-- [ ] Buổi 4: Pin LiPo, flight controller, hệ thống điều khiển vô tuyến
+- [ ] Nộp bài kiểm tra + 3 bài thực hành Buổi 4
 - [ ] Buổi 5: Pháp lý & an toàn bay, checklist trước bay
 - [ ] Buổi 6: Ôn tập, hoàn thành sơ đồ cấu tạo, quiz tuần 1
 - [ ] Tập bay simulator 30–45 phút/ngày
